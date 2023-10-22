@@ -88,6 +88,11 @@ body {
   margin: 0 30px 0;
 }
 
+h1,
+h2 {
+  margin: 0;
+}
+
 .join-community, .monthly-subscription, .why-us {
   padding: 0 1.5rem;
   }
