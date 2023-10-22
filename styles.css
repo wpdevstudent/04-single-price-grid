@@ -89,7 +89,9 @@ body {
 }
 
 h1,
-h2 {
+h2,
+ul
+{
   margin: 0;
 }
 
