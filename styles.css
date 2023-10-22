@@ -121,10 +121,15 @@ body {
 
 .sign-up {
   display: inline-flex;
-  border: 1px solid red;
+  justify-content: center;
+  min-width: 100%;
   background: hsl(71, 73%, 54%);
   color: white;
-  margin: 0 auto;
+  border-radius: 0.5rem;
+  margin-top: 1.5rem;
+  padding: 0.75rem 0;
+  text-decoration: none;
+  
   
   }
 
