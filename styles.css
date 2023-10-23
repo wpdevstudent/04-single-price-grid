@@ -104,7 +104,8 @@ h2
 }
 
 .join-community h1 {
-  font-size: 0.75rem;
+  font-size: 1rem;
+  color: hsl(179.2,68.9%,41.6%);
 }
 
 .monthly-subscription {
