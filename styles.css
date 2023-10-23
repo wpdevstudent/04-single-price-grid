@@ -1,4 +1,4 @@
-/* Start Andy Bell's Latest CSS Reset */
+/* Start Andy Bell's Latest (September 18th, 2023) CSS Reset */
 
 /* Box sizing rules */
 *,
@@ -72,14 +72,8 @@ textarea:not([rows]) {
 :target {
   scroll-margin-block: 5ex;
 }
-Breakdown
-As is tradition, let’s break it down:
 
-/* Box sizing rules */
-*,
-
-
-/* Finish Andy Bell's CSS Reset */
+/* Finish Andy Bell's latest (September 18th, 2023) CSS Reset */
 
 body {
   display: flex;
