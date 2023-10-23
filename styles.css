@@ -103,6 +103,10 @@ h2
   padding-bottom: 2rem;
 }
 
+h1.join-community {
+  font-site: 0.75rem;
+}
+
 .monthly-subscription {
   background: hsl(179.2,68.9%,41.6%);
   padding-bottom: 1.5rem;
