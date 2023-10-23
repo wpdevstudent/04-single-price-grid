@@ -181,13 +181,10 @@ ul[role='list'] {
 @media only screen and (min-width: 51rem) {
   
   main {
-    max-width: 50rem;
-  }
-  
-  .container {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Two columns */
     grid-template-rows: repeat(2, 1fr);    /* Two rows */
+    max-width: 50rem;
 }
   
   .join-community {
