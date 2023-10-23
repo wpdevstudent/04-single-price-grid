@@ -107,6 +107,9 @@ h2
   font-size: 1.25rem;
   color: hsl(179.2,68.9%,41.6%);
 }
+.money-back-guarantee {
+  color: hsl(71, 73%, 54%);
+}
 
 .monthly-subscription {
   background: hsl(179.2,68.9%,41.6%);
