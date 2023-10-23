@@ -190,7 +190,7 @@ ul[role='list'] {
     grid-column: 1 / 3;
  }
 
-  .gain-access {
+  .gain-access p {
     padding-bottom: 0;
   }
 }
