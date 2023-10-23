@@ -178,7 +178,7 @@ ul[role='list'] {
 }
 
 
-@media only screen and (min-width: 51rem) {
+@media only screen and (min-width: 48rem) {
   
   main {
     display: grid;
