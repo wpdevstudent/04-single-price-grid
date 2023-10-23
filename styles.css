@@ -120,6 +120,11 @@ h2
   font-weight: 700;
 }
 
+p.price-per-month {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
 .monthly-subscription, .why-us {
   color: white;
   }
