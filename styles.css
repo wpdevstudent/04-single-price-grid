@@ -148,7 +148,9 @@ h2 {
   
 .why-us {
   background: hsl(179.5,46.3%,51.8%);
-/* margin: 0; */
+}
+.why-us h2 {
+  padding-bottom: 1rem;
 }
 
 
