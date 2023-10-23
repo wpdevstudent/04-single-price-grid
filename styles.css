@@ -82,7 +82,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  font-family: 'Karla', sans-serif;
+  font-family: 'Karla', sans-serif;  
   min-height: 100svh;
   background: hsl(204, 43%, 93%);
   margin: 0 30px 0;
