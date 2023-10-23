@@ -183,7 +183,8 @@ ul[role='list'] {
   main {
     display: grid;
     grid-template-columns: repeat(2, 1fr); /* Two columns */
-    grid-template-rows: repeat(2, 1fr);    /* Two rows */
+  /*  grid-template-rows: repeat(2, 1fr);    /* Two rows */
+    grid-template-rows: auto auto; /* Adjust the row heights */
 }
   
   .join-community {
