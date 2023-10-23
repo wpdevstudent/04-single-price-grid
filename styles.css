@@ -120,7 +120,7 @@ h2
   font-weight: 700;
 }
 
-.price-per-month > * {
+.price-per-month > * { /* Reset the top and bottom margins for the p element of the two flex items, to make sure that $29 and "per month" are vertically aligned next to each other */ 
   margin-block-start: 0;
   margin-block-end: 0;
 }
