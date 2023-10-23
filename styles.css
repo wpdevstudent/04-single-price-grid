@@ -94,6 +94,10 @@ h2
   margin: 0;
 }
 
+h2 {
+  font-size: 1rem;
+}
+
 .join-community, .monthly-subscription, .why-us {
   padding: 1.5rem;
   }
