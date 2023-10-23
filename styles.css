@@ -190,7 +190,7 @@ ul[role='list'] {
     grid-column: 1 / 3; /* Span two columns */
  }
 
-/*  .monthly-subscription {
+ .monthly-subscription {
     grid-column: 1 / 2; /* Take up the first column */
     grid-row: 2 / 3;    /* Take up the second row */
   }
@@ -199,7 +199,10 @@ ul[role='list'] {
     grid-column: 2 / 3; /* Take up the second column */
     grid-row: 2 / 3;    /* Take up the second row */
   }
-*/
+
+  .gain-access {
+    padding-bottom: 5rem;
+  }
 
   
 }
